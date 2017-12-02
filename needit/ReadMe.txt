@@ -1,6 +1,6 @@
 ========================================================================
-				NeedIt! New executable (NE) edItor
-					(c) 2017 Wilmer Ricciotti.
+                NeedIt! New executable (NE) edItor
+                    (c) 2017 Wilmer Ricciotti.
 ========================================================================
 
 No source code documentation is provided at the moment.
